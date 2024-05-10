@@ -1,0 +1,10 @@
+Pillow
+pytesseract
+opencv-python
+numpy
+pandas
+matplotlib
+Keras
+tensorflow
+face_recognition
+pyttsx3
